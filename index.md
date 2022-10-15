@@ -7,3 +7,8 @@
 ###### This is an <h6> header
 
 ![Donkey Image](https://pbs.twimg.com/media/FPH-9lmWYAMiYC3.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
